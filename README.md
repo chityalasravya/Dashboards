@@ -24,14 +24,14 @@ The superstore wants to see and analyze the sales trend month-wise and product-w
 
 The Dashboard's scope of analysis
 
-Sales, Quantity, and Profit of each product category
-Segment Distribution of each product category
-Sales and Profit throughout months of sales of each product category
-Regional Sales of each product category
-Overall Sales Trend throughout months of a sales year
-Distribution of Order Priority
-Customer Ordering Trend
-Analysis of work Performance of Regional Managers
-Comparison of sales and profit product category-wise
-Analyzing Shipping priority share.
-The aim of this project is to answer the above objectives in the form of visualization by creating a dashboard to convey the answers effectively and efficiently.
+*Sales, Quantity, and Profit of each product category.
+*Segment Distribution of each product category.
+*Sales and Profit throughout months of sales of each product category.
+*Regional Sales of each product category.
+*Overall Sales Trend throughout months of a sales year.
+*Distribution of Order Priority.
+*Customer Ordering Trend.
+*Analysis of work Performance of Regional Managers.
+*Comparison of sales and profit product category-wise.
+*Analyzing Shipping priority share.
+*The aim of this project is to answer the above objectives in the form of visualization by creating a dashboard to convey the answers effectively and efficiently.
